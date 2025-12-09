@@ -14,9 +14,7 @@ st.markdown("""
 st.markdown("""
 ### Desenvolvimento Acadêmico
 
-Este dashboard foi desenvolvido como projeto prático da disciplina de **"Tecnologia em Saúde e Ciência de Dados"**, 
-ministrada pelo **Prof. André Scolare Bueno** na especialização **"Saúde Coletiva com Ênfase em Saúde da Família"** 
-da Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS).
+Este dashboard foi desenvolvido como projeto prático da disciplina **“Tecnologia em Saúde e Ciência de Dados”**, ministrada pelo **Prof. André Scolare Bueno**, na especialização **“Saúde Coletiva com Ênfase em Saúde da Família”** da Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS). As alunas **Aline Zorzi, Ana Clara Araujo, Cássia Vieira Stravalacci, Celina Fagundes Silva, Geisiane Souza Soares, Larissa Silva, Luiza Cunha Oliveira, Maiara Vargas Cardoso, Marinice Ferreira Rosa, Raissa Cervelin Garcia e Raquel Pienis Garcia** participaram da concepção do projeto, do desenvolvimento da aplicação, do estudo da base de dados do e-SUS e da discussão dos indicadores.
 
 ---
 
